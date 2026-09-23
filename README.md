@@ -56,7 +56,7 @@ Test result:
 ## 📊 Example Result
 ```text
 Student Name: Sakshi Tayade
-Roll Number: 101
+Roll Number: 102
 
 Subject Marks:
 Python: 90
@@ -64,8 +64,8 @@ AI: 87
 Computer Networks: 85
 Mathematics: 95
 
-Total Marks: 330
-Percentage: 82.5%
+Total Marks: 357
+Percentage: 89.25%
 Grade: A
 Status: Pass
 Highest Marks: Python (90)
