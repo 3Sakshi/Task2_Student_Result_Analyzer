@@ -55,9 +55,9 @@ Roll Number: 101
 
 Subject Marks:
 Python: 90
-AI: 85
-Computer Networks: 80
-Mathematics: 75
+AI: 87
+Computer Networks: 85
+Mathematics: 95
 
 Total Marks: 330
 Percentage: 82.5%
