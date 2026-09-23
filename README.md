@@ -68,8 +68,8 @@ Total Marks: 357
 Percentage: 89.25%
 Grade: A
 Status: Pass
-Highest Marks: Python (90)
-Lowest Marks: Mathematics (75)
+Highest Marks: Mathematics (95)
+Lowest Marks: Computer Networks (85)
 ```
 
 ## 🎯 Learning Outcomes
