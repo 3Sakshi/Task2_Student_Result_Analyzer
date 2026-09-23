@@ -33,20 +33,28 @@ Task2_Student_Result_Analyzer/
 ├── models.py
 ├── test_result_analyzer.py
 └── README.md
+```
 
 ## ▶️ How to Run
 Run the application using:
+```text
 python main.py
+```
 The application will ask for the student's name, roll number, and subject-wise marks.
 
 ## 🧪 Testing
 Automated tests are included using pytest.
 Run the tests with:
+```text
 pytest -q
+```
 Test result:
+```text
 5 passed
+```
 
 ## 📊 Example Result
+```text
 Student Name: Sakshi Tayade
 Roll Number: 101
 
@@ -62,6 +70,7 @@ Grade: A
 Status: Pass
 Highest Marks: Python (90)
 Lowest Marks: Mathematics (75)
+```
 
 ## 🎯 Learning Outcomes
 Through this project, I practiced:
