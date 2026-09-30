@@ -1,4 +1,4 @@
-# Student_Result_Analyzer
+# Student Result Analyzer
 A Python-based Student Result Analyzer developed as part of the Skyrovix Python Development Internship.
 
 ## 📌 Project Overview
